@@ -2,3 +2,14 @@ p {
     background-color: rgba(241, 42, 119, 0.704);
     font-family: 'Verdana', 'DejaVu Sans';
 }
+
+#second {
+    color: rgb(59, 59, 211);
+    font-size: 46px;
+}
+
+#fourth{
+    background-color: rgb(35, 178, 35);
+    font-size: 24px;
+    font-weight: 700;
+}
